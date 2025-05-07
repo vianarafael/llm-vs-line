@@ -32,9 +32,9 @@ The notebook uses a `MODEL` constant—make sure it matches the model you run be
     ```bash
     ollama run qwen3:14b-q4_K_M
     ```
-    > **Tip:** If you want to use a different Ollama model, replace  
-    > `qwen3:14b-q4_K_M` above and update  
-    > `MODEL = "<your-model-name>"` in the notebook.
+If you want to use a different Ollama model, replace  
+> `qwen3:14b-q4_K_M` above and update  
+> `MODEL = "<your-model-name>"` in the notebook.
 
 ## Scrape the data from LINE Campus
 
