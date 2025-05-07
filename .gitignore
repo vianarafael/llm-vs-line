@@ -1,0 +1,11 @@
+scrapeline-env/
+knowledge_base/
+vector_db/
+cookies.json
+vision-api.json
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
